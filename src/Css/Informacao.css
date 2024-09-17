@@ -1,0 +1,90 @@
+/*Primeira imagem com texto*/
+
+.caixaIMG01{
+    /* background-color: #000; */
+    height: 25rem;
+    width: 40rem;
+    font-size: 1.2rem;
+    margin-top: 5rem;
+    margin-left: 4rem;
+}
+.Inf{
+    background-color: #3B3B3B;
+    height: 100%;
+    /* display: flex; */
+}
+.tit01{
+    color: aliceblue;
+    margin-left: 10rem;
+    font-size: 3rem;
+}
+.textOQS{
+    color: aliceblue;
+    text-align: center;
+}
+.img01{
+    height: 20rem;
+    width: 40rem;
+    margin-left: 46rem;
+    margin-top: -20rem;
+}
+
+/*segunda imagem com texto*/
+
+.caixaIMG02{
+    /* display: flex;
+    flex-direction: row; */
+    height: 30rem ;
+    width: 80%;
+    font-size: 1.2rem;
+    /* background-color: blue; */
+    margin-left: 5rem;
+}
+.tit02{
+    color:aliceblue;
+    font-size: 3rem;
+}
+.textQCA{
+    color:aliceblue; 
+     text-align: center;
+     font-size: 1.5rem;
+}
+.img02{
+    height: 20rem;
+    width: 40rem;
+} 
+
+.caixaTitulo{
+    width: 45%;
+    /* background-color: chartreuse; */
+    margin-left: 50rem;
+    margin-top: -17rem;
+
+}
+.caixaTexto{
+    width: 54%;
+    margin-left: 45rem;
+    
+}
+
+/*Terceira Imagem com texto*/
+
+.caixaIMG03{
+    /* background-color: #000; */
+    height: 25rem;
+    width: 40rem;
+    font-size: 1.2rem;
+   /* margin-top: 5rem;*/
+    margin-left: 4rem;
+}
+.tit03{
+    color: aliceblue;
+    margin-left: 5rem;
+    font-size: 3rem;
+}
+
+.rodape{
+    height: 80px;
+    width: 100%;
+    background-color: aliceblue;
+}
