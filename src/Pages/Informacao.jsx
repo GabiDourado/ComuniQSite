@@ -1,4 +1,5 @@
 import "../Css/Informacao.css"
+import LogoSemFundo from "../img/LogoSemFundo.png"
 export default function Informacao() {
     return (
         <div className="Inf">
@@ -30,11 +31,11 @@ export default function Informacao() {
                 <span className="textOQS">Registro de denúncias e suporte via chat com bot.</span>
                 <span className="textOQS">Acesso a campanhas, pesquisa de informações e perfil do usuário.</span>
                 <span className="textOQS">Redefinição de senha em caso de esquecimento.</span>
-                <img className="img01" src="http://localhost:3000/static/media/LogoComuniQ.15bf7c1aaa211140bc38.jpeg" alt="Imagem de uma cidade com a Bandeira do Brsil" />
+                <img className="img03" src="http://localhost:3000/static/media/LogoComuniQ.15bf7c1aaa211140bc38.jpeg" alt="Imagem de uma cidade com a Bandeira do Brsil" />
             </div>
 
         <div className="rodape">
-
+        <img src={LogoSemFundo} alt="Logo" className="Logo" />
         </div>
 
         </div>

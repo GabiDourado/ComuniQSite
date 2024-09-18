@@ -9,7 +9,7 @@ function App() {
     <div className="App">
        <Menu/>
       <Home/> 
-      <hr/>
+      <hr className='hr'/>
       <Informacao/>
     </div>
   );

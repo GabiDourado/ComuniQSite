@@ -3,7 +3,7 @@
 .caixaIMG01{
     /* background-color: #000; */
     height: 25rem;
-    width: 40rem;
+    width: 45rem;
     font-size: 1.2rem;
     margin-top: 5rem;
     margin-left: 4rem;
@@ -21,12 +21,13 @@
 .textOQS{
     color: aliceblue;
     text-align: center;
+    font-size: 1.1rem;
 }
 .img01{
     height: 20rem;
     width: 40rem;
     margin-left: 46rem;
-    margin-top: -20rem;
+    margin-top: -17rem;
 }
 
 /*segunda imagem com texto*/
@@ -36,18 +37,19 @@
     flex-direction: row; */
     height: 30rem ;
     width: 80%;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     /* background-color: blue; */
     margin-left: 5rem;
 }
 .tit02{
     color:aliceblue;
     font-size: 3rem;
+    margin-left: -4rem;
 }
 .textQCA{
     color:aliceblue; 
      text-align: center;
-     font-size: 1.5rem;
+     font-size: 1.1rem;
 }
 .img02{
     height: 20rem;
@@ -82,9 +84,28 @@
     margin-left: 5rem;
     font-size: 3rem;
 }
+.img03{
+    height: 25rem;
+    width: 30rem;
+    margin-left: 52rem;
+    margin-top: -17rem;
+    object-fit: contain;
+}
 
 .rodape{
     height: 80px;
     width: 100%;
-    background-color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+.Logo{
+    width: 5rem;
+    height: 4rem;
+    margin-left: 45rem;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; *//*Eu tentei*/
+}
+hr{
+    margin-top: 2rem;
+    width: 90%;
 }

@@ -1,5 +1,5 @@
 body{
-    background-color: #ffffff;
+    background-color: #3B3B3B;
     font-size: 14px;
 }
 .Imagem{
@@ -18,7 +18,7 @@ body{
     width: 190px;
     height: 60px;
     margin-left: 230px;
-    /* margin-top: 80px; */
+    padding-top: 50px; 
     text-align: center;
     font-size:600;
     font-weight: 20;
@@ -35,12 +35,40 @@ body{
     font-weight:400;
 }
 .Divbtn{
-    margin-left: 230px;
-    margin-top: 80px;
+    margin-left: 150px;
+    margin-top: 30px;
 }
 .btn{
-    width: 190px;
-    height: 100px;
-    font-size:100px;
-    font-weight:400;
+    width: 400px;
+    height: 150px;
+    font-size:50px;
+    font-weight:80;
+    border-radius: 10px;
+}
+.escrita3{
+    color: #ffffff;
+}
+.DivTexto3{
+    width: 290px;
+    height: 60px;
+    margin-left: 190px;
+    padding-top: 30px; 
+    text-align: center;
+    font-size:600;
+    font-weight: 20;
+}
+.DivImg{
+    margin-top: -11rem;
+}
+.GooglePlay{
+    
+    width: 150px;
+    height: 60px; 
+}
+.app{
+    margin-top: -685px;
+    width: 27rem;
+    height: 57rem;
+    margin-left: 54rem;
+    object-fit: contain;
 }
