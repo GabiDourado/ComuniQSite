@@ -10,65 +10,83 @@ body{
 }
 .ComuniQ1{
     color: aqua;
+    font-weight: 555 ;
 }
 .escrita1{
     color: #ffffff;
+    font-weight: 555 ;
 }
 .DivTexto1{
-    width: 190px;
-    height: 60px;
-    margin-left: 230px;
-    padding-top: 50px; 
+    width: 420px;
+    height: 80px;
+    margin-left: 200px;
+    padding-top: 92px;
     text-align: center;
-    font-size:600;
+    font-size: 34px;
     font-weight: 20;
 }
 .escrita2{
     color: #ffffff;
 }
-.DivTexto2{
-    width: 550px;
-    height: 130px;
-    margin-left: 100px;
-    margin-top: 20px;
-    font-size:100px;
-    font-weight:400;
-}
 .Divbtn{
-    margin-left: 150px;
-    margin-top: 30px;
+   margin-top: 8rem;
+    width: 862px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 94px;
 }
-.btn{
-    width: 400px;
-    height: 150px;
-    font-size:50px;
-    font-weight:80;
-    border-radius: 10px;
-}
+
 .escrita3{
     color: #ffffff;
 }
 .DivTexto3{
-    width: 290px;
+    width: 512px;
     height: 60px;
     margin-left: 190px;
-    padding-top: 30px; 
+    padding-top: 30px;
     text-align: center;
-    font-size:600;
-    font-weight: 20;
+    font-size: 27px;
+    /* font-weight: 20; */
+    font-weight: 400;
 }
 .DivImg{
     margin-top: -11rem;
 }
 .GooglePlay{
-    
-    width: 150px;
-    height: 60px; 
+    width: 90%;
+    object-fit: contain;
+    margin-right: 1rem;
+    margin-top: 3px;
+}
+.IosPlay{
+    width: 90%;
+    object-fit: contain;
+    border: white
+}
+.btn {
+    width: 236px;
+    height: 92px; 
+    object-fit: contain;
 }
 .app{
-    margin-top: -685px;
+    margin-top: -618px;;
     width: 27rem;
     height: 57rem;
     margin-left: 54rem;
     object-fit: contain;
+}
+.BTTTAQUI{
+    font-size: 70px;
+    color: #ffffff;
+    font-weight: 800;
+}
+.DivTextoB{
+    margin-top: 157px;
+    background-color: rebeccapurple;
+    width: 862px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 94px;
 }
