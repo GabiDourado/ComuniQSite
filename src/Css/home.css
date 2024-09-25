@@ -1,22 +1,26 @@
-body{
+body {
     background-color: #3B3B3B;
     font-size: 14px;
 }
-.Imagem{
-    background-image:radial-gradient( rgba(10,10,10,0.7) , rgba(10,10,10,0.7) ), url(../img/CidadePederneiras.jpeg);
+
+.Imagem {
+    background-image: radial-gradient(rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.7)), url(../img/CidadePederneiras.jpeg);
     background-size: cover;
     width: 100%;
     height: 41rem;
 }
-.ComuniQ1{
+
+.ComuniQ1 {
     color: aqua;
-    font-weight: 555 ;
+    font-weight: 555;
 }
-.escrita1{
+
+.escrita1 {
     color: #ffffff;
-    font-weight: 555 ;
+    font-weight: 555;
 }
-.DivTexto1{
+
+.DivTexto1 {
     width: 420px;
     height: 80px;
     margin-left: 200px;
@@ -25,11 +29,13 @@ body{
     font-size: 34px;
     font-weight: 20;
 }
-.escrita2{
+
+.escrita2 {
     color: #ffffff;
 }
-.Divbtn{
-   margin-top: 8rem;
+
+.Divbtn {
+    margin-top: 8rem;
     width: 862px;
     display: flex;
     align-items: center;
@@ -37,51 +43,64 @@ body{
     height: 94px;
 }
 
-.escrita3{
+.escrita3 {
     color: #ffffff;
 }
-.DivTexto3{
+
+.DivTexto3 {
     width: 512px;
     height: 60px;
-    margin-left: 190px;
-    padding-top: 30px;
+    margin-left: 157px;
+    padding-top: 57px;
     text-align: center;
     font-size: 27px;
     /* font-weight: 20; */
     font-weight: 400;
 }
-.DivImg{
+
+.DivImg {
     margin-top: -11rem;
 }
-.GooglePlay{
-    width: 90%;
+
+.GooglePlay {
+    width: 93%;
     object-fit: contain;
     margin-right: 1rem;
     margin-top: 3px;
 }
-.IosPlay{
-    width: 90%;
+
+.IosPlay {
+    width: 100%;
     object-fit: contain;
-    border: white
 }
+
 .btn {
     width: 236px;
-    height: 92px; 
+    height: 66px;
     object-fit: contain;
 }
-.app{
-    margin-top: -618px;;
+.btn1{
+    width: 236px;
+    height: 66px;
+    object-fit: contain;
+}
+
+.app {
+    margin-top: -618px;
+    ;
     width: 27rem;
     height: 57rem;
     margin-left: 54rem;
     object-fit: contain;
 }
-.BTTTAQUI{
+
+.BTTTAQUI {
     font-size: 70px;
     color: #ffffff;
     font-weight: 800;
 }
-.DivTextoB{
+
+.DivTextoB {
     margin-top: 157px;
     background-color: rebeccapurple;
     width: 862px;
@@ -89,4 +108,25 @@ body{
     align-items: center;
     justify-content: center;
     height: 94px;
+}
+.Teste{
+
+    object-fit: contain;
+    border-Color: red;
+    border-Width: 5rem;
+    width: 14rem;
+    height: 4.3rem;
+    border-radius: 0.9rem;
+    align-items: center;
+    display: flex;
+}
+.Teste1{
+    object-fit: contain;
+    border-Color: red;
+    border-Width: 5rem;
+    width: 14rem;
+    height: 9.5rem;
+    border-radius: 0.9rem;
+    align-items: center;
+    display: flex;
 }
