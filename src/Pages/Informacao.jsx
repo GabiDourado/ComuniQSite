@@ -1,5 +1,6 @@
 import "../Css/Informacao.css"
 import LogoSemFundo from "../img/LogoSemFundo.png"
+import LogoComFundo from "../img/LogoComuniQ.jpeg"
 export default function Informacao() {
     return (
         <div className="Inf">
@@ -37,7 +38,7 @@ export default function Informacao() {
                     </div>
                 </div>
                 <div className="csimg">
-                    <img className="img03" src="http://localhost:3000/static/media/LogoComuniQ.15bf7c1aaa211140bc38.jpeg" alt="Imagem de uma cidade com a Bandeira do Brsil" />
+                    <img className="img03" src={LogoComFundo} alt="Imagem de uma cidade com a Bandeira do Brsil" />
                 </div>
             </div>
 
